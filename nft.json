@@ -1,1 +1,12 @@
-{"name":"Magic Jesus #1","description":"We present a special presentation 333-333-333","image":"ipfs://QmPPeeQ9UWMTkCQe4Zqj34QqrfUqLkmP4jJw7ZD9xyVSTo/logo.jpg","attributes":[{"trait_type":"Material","value":"Wool fabric"},{"trait_type":"Hat","value":"Top hat"},{"trait_type":"Glasses","value":"None"},{"trait_type":"Item","value":"None"},{"trait_type":"Background","value":"Dark"}]}
+{
+  "image":"https://i1.sndcdn.com/artworks-000629668888-0qpnbx-t500x500.jpg",
+  "name":"Magic Jesus #1",
+  "description":"We present a special presentation 666-666-666",
+  "attributes":[
+    {"trait_type":"Material","value":"Wool fabric"},
+    {"trait_type":"Hat","value":"Top hat"},
+    {"trait_type":"Glasses","value":"None"},
+    {"trait_type":"Item","value":"None"},
+    {"trait_type":"Background","value":"Dark"}
+  ]
+}
